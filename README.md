@@ -22,40 +22,40 @@
 
 <details>
   <summary><b> 1. Windows </b></summary>
-<div align="Left"> 
-<br>
-  
+  <div align="left">
+    <br>
+
     <details>
       <summary><b> 1.1 MS-DOS (1981) </b></summary>
       <div>
-        
+
       </div>
     </details>
 
     <details>
       <summary><b> 1.2 Windows 1.0 (1985) </b></summary>
       <div>
-        
+
       </div>
     </details>
 
     <details>
       <summary><b> 1.3 Windows 2.0 (1987) </b></summary>
       <div>
-        
+
       </div>
     </details>
 
     <details>
-      <summary><b> 1.4 Windows 3.0 (1990) </b></summary>
+      <summary><b> 1.3 Windows 3.0 (1990) </b></summary>
       <div>
-        
+
       </div>
     </details>    
 
-
-</div> 
+  </div>
 </details>
+
 
 ----
 
