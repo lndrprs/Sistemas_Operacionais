@@ -23,39 +23,45 @@
 <details>
   <summary><b> 1. Windows </b></summary>
   <div align="left">
-    <br>
+    
+<br>
+    
+  <details>
+  <summary> 1.1 MS-DOS (1981) </summary>
+  <div>
 
-    <details>
-      <summary><b> 1.1 MS-DOS (1981) </b></summary>
-      <div>
+  </div>
+  </details>
 
-      </div>
-    </details>
+<br>
+    
+  <details>
+  <summary> 1.2 Windows 1.0 (1985) </summary>
+  <div>
 
-    <details>
-      <summary><b> 1.2 Windows 1.0 (1985) </b></summary>
-      <div>
+  </div>
+  </details>
 
-      </div>
-    </details>
+<br>
+    
+  <details>
+  <summary> 1.3 Windows 2.0 (1987) </summary>
+  <div>
 
-    <details>
-      <summary><b> 1.3 Windows 2.0 (1987) </b></summary>
-      <div>
+  </div>
+  </details>
 
-      </div>
-    </details>
+<br>
+    
+  <details>
+  <summary> 1.4 Windows 3.0 (1990) </summary>
+  <div>
 
-    <details>
-      <summary><b> 1.3 Windows 3.0 (1990) </b></summary>
-      <div>
-
-      </div>
-    </details>    
+  </div>
+  </details>  
 
   </div>
 </details>
-
 
 ----
 
