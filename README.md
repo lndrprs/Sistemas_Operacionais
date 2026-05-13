@@ -19,3 +19,39 @@
 </h6>
 
 ----
+
+<details>
+  <summary><b> 1. Windows </b></summary>
+<div align="Left"> 
+<br>
+  
+
+
+</div> 
+</details>
+
+----
+
+<details>
+  <summary><b> 2. Linux </b></summary>
+<div align="Left"> 
+<br>
+  
+
+
+</div> 
+</details>
+
+----
+
+<details>
+  <summary><b> 3. BSD </b></summary>
+<div align="Left"> 
+<br>
+  
+
+
+</div> 
+</details>
+
+----
