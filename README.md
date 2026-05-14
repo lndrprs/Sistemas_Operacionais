@@ -33,7 +33,7 @@
     - URL: https://winworldpc.com/product/ms-dos/1x  
     
     - MS-DOS: Microsoft Disk Operating System  
-C:\General\ImageDisk
+
   </div>
   </details>
 
