@@ -46,8 +46,6 @@ C:\General\ImageDisk
   </div>
   </details>
 
-<br>
-
 </div> 
 </details>
 
