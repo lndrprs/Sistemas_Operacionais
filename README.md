@@ -33,39 +33,18 @@
     - URL: https://winworldpc.com/product/ms-dos/1x  
     
     - MS-DOS: Microsoft Disk Operating System  
-
+C:\General\ImageDisk
   </div>
   </details>
 
 <br>
     
   <details>
-  <summary> 1.2 Windows 1.0 (1985) </summary>
+  <summary> 1.2 Windows 11 (2021) </summary>
   <div>
 
   </div>
   </details>
-
-<br>
-    
-  <details>
-  <summary> 1.3 Windows 2.0 (1987) </summary>
-  <div>
-
-  </div>
-  </details>
-
-<br>
-    
-  <details>
-  <summary> 1.4 Windows 3.0 (1990) </summary>
-  <div>
-
-  </div>
-  </details>  
-
-  </div>
-</details>
 
 ----
 
