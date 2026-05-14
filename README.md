@@ -29,9 +29,9 @@
   <details>
   <summary> 1.1 MS-DOS (1981) </summary>
   <div>
-      > - URL: https://winworldpc.com/product/ms-dos/1x
-      >
-      > - MS-DOS: Microsoft Disk Operating System 
+      > - URL: https://winworldpc.com/product/ms-dos/1x  
+      >  
+      > - MS-DOS: Microsoft Disk Operating System  
 
   </div>
   </details>
