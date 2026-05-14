@@ -43,6 +43,8 @@ C:\General\ImageDisk
   <summary> 1.2 Windows 11 (2021) </summary>
   <div>
 
+    - URL: https://learn.microsoft.com/en-us/windows/
+
   </div>
   </details>
 
