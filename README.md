@@ -29,26 +29,24 @@
 <br>
     
   <details>
-  <summary> 1.1 MS-DOS (1981) </summary>
+  <summary> 1.1 Windows 11 </summary>
   <div>
-      
-    - URL: https://winworldpc.com/product/ms-dos/1x  
-    
-    - MS-DOS: Microsoft Disk Operating System  
+
 
   </div>
   </details>
 
 <br>
-    
+
   <details>
-  <summary> 1.2 Windows 11 (2021) </summary>
+  <summary> 1.2 Windows Server </summary>
   <div>
 
-    - URL: https://learn.microsoft.com/en-us/windows/
 
   </div>
   </details>
+
+<br>
 
 </div> 
 </details>
