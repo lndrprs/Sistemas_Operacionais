@@ -38,12 +38,14 @@
   <summary> 1.1.1 Control Panel Item - CPL </summary>
   <div>
 
-  • Arquivos .cpl são DDL's - Dynamic Link Library -, renomeadas;
-  • Implementando um applet do Painel de Controle.
-  • Para verificar a listagem no computador: dir C:\Windows\System32\*.cp
+  • Arquivos .cpl são DDL's - Dynamic Link Library -, renomeadas;  
+  • Implementando um applet do Painel de Controle.  
+  • Para verificar a listagem no computador: dir C:\Windows\System32\*.cp  
+
   | Arquivo | Aplicativo Painel de Controle |
   |---------|-------------------------------|
-  | appwiz.cpl | Programas e Recurs
+  | appwiz.cpl | Programas e Recursos       |
+  | bthprops.cpl | Dispositivos Bluetooth   |
 
   </div>
   </details>
