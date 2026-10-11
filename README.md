@@ -32,6 +32,23 @@
   <summary> 1.1 Windows 11 </summary>
   <div>
 
+            <details>
+            <summary> 1.1.1 Control Panel Item - CPL </summary>
+            <div>
+          
+                      • Arquivos .cpl são DDL's - Dynamic Link Library -, renomeadas;
+                      • Implementando um applet do Painel de Controle.
+                      • Para verificar a listagem no computador: dir C:\Windows\System32\*.cpl /b
+
+                      | Arquivo | Aplicativo Painel de Controle |
+                      |---------|-------------------------------|
+                      | appwiz.cpl | Programas e Recursos |
+
+          
+            </div>
+            </details>
+
+
 
   </div>
   </details>
