@@ -36,8 +36,6 @@
   </div>
   </details>
 
-<br>
-
   <details>
   <summary> 1.2 Windows Server </summary>
   <div>
