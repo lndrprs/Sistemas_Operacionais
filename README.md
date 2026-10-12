@@ -60,6 +60,9 @@
   | timedate.cpl | Data e Hora |
   | wscui.cpl | Segurança e Manutenção | 
 
+  </div>
+  </details>  
+
   <details>
   <summary> 1.2 Microsoft Management Console - MMC </summary>
   <div>
