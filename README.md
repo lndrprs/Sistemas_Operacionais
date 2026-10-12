@@ -46,6 +46,25 @@
   |---------|-------------------------------|
   | appwiz.cpl | Programas e Recursos       |
   | bthprops.cpl | Dispositivos Bluetooth   |
+  | desk.cpl | Configurações de Vídeo |
+  | firewall.cpl | Firewall do Windows Defender |
+  | hdwwiz.cpl | Assistente para Adição de Hardware | 
+  | inetcpl.cpl | Opções da Internet | 
+  | intl.cpl | Região e formatos de data / hora / moeda |
+  | irprops.cpl | Propriedades de Infravermelho | 
+  | joy.cpl | Controladores de Jogos |
+  | main.cpl | Propriedades do Mouse | 
+  | mmsys.cpl | Propriedades de Som |
+  | ncpa.cpl | Conexões de Rede |
+  | nusrmgr.cpl | Contas de Usuário | 
+  | odbccp32.cpl | Fontes de DAdos ODBC |
+  | powercfg.cpl | Opções de Energia |
+  | sysdm.cpl | Propriedades do sistema | 
+  | tabletpc.cpl | Caneta e Toque |
+  | telephon.cpl | Telefone e Modem |
+  | timedate.cpl | Data e Hora |
+  | wscui.cpl | Segurança e Manutenção | 
+
 
   </div>
   </details>
