@@ -69,11 +69,11 @@
 
 <br>
 
-  • MMC é um programa: mmc.exe, que funciona como uma moldura em branco para ferramentas de administração;
-  • Apenas fornece o ambiente para adição de Snap-Ins (Que seriam como "extensões").
-  • Estrutura: mmc.exe -> Snap-Ins Selecionados -> Salvos em um arquivo .msc
+  • MMC é um programa: mmc.exe, que funciona como uma moldura em branco para ferramentas de administração;  
+  • Apenas fornece o ambiente para adição de Snap-Ins (Que seriam como "extensões").  
+  • Estrutura: mmc.exe -> Snap-Ins Selecionados -> Salvos em um arquivo .msc  
 
-  • Verificação de .msc's: dir C:\Windows\System32\*.msc
+  • Verificação de .msc's: - dir C:\Windows\System32\*.msc
 
   | Arquivo | Descrição |
   |---------|-----------|
