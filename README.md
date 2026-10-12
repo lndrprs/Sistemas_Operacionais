@@ -38,8 +38,9 @@
   <summary> 1.1.1 Control Panel Item - CPL </summary>
   <div>
 
-  • Arquivos .cpl são DDL's - Dynamic Link Library -, renomeadas;  
-  • Implementando um applet do Painel de Controle.  
+<br>
+
+  • Arquivos .cpl são DDL's - Dynamic Link Library -, renomeadas, que implementam applets do Painel de Controle;  
   • Para verificar a listagem no computador: dir C:\Windows\System32\*.cp  
 
   | Arquivo | Aplicativo Painel de Controle |
@@ -65,6 +66,7 @@
   | timedate.cpl | Data e Hora |
   | wscui.cpl | Segurança e Manutenção | 
 
+<br>
 
   </div>
   </details>
