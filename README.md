@@ -35,7 +35,8 @@
 <br>
 
   • Arquivos .cpl são DDL's - Dynamic Link Library -, renomeadas, que implementam applets do Painel de Controle;  
-  • Para verificar a listagem no computador: dir C:\Windows\System32\*.cp  
+  • Verificação de cpl's: 
+  - dir C:\Windows\System32\*.cp  
 
   | Arquivo | Aplicativo Painel de Controle |
   |---------|-------------------------------|
@@ -73,7 +74,8 @@
   • Apenas fornece o ambiente para adição de Snap-Ins (Que seriam como "extensões").  
   • Estrutura: mmc.exe -> Snap-Ins Selecionados -> Salvos em um arquivo .msc  
 
-  • Verificação de .msc's: - dir C:\Windows\System32\*.msc
+  • Verificação de .msc's: 
+  - dir C:\Windows\System32\*.msc
 
   | Arquivo | Descrição |
   |---------|-----------|
