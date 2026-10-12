@@ -29,13 +29,7 @@
 <br>
     
   <details>
-  <summary> 1.1 Windows 11 </summary>
-  <div>
-
-<br>
-
-  <details>
-  <summary> 1.1.1 Control Panel Item - CPL </summary>
+  <summary> 1.1 Control Panel Item - CPL </summary>
   <div>
 
 <br>
@@ -66,18 +60,29 @@
   | timedate.cpl | Data e Hora |
   | wscui.cpl | Segurança e Manutenção | 
 
-<br>
-
-  </div>
-  </details>
-
-  </div>
-  </details>
-
   <details>
-  <summary> 1.2 Windows Server </summary>
+  <summary> 1.2 Microsoft Management Console - MMC </summary>
   <div>
 
+<br>
+
+  • MMC é um programa: mmc.exe, que funciona como uma moldura em branco para ferramentas de administração;
+  • Apenas fornece o ambiente para adição de Snap-Ins (Que seriam como "extensões").
+  • Estrutura: mmc.exe -> Snap-Ins Selecionados -> Salvos em um arquivo .msc
+
+  • Verificação de .msc's: dir C:\Windows\System32\*.msc
+
+  | Arquivo | Descrição |
+  |---------|-----------|
+  | azman.msc | Gerenciador de Autorização |
+  | certlm.msc | Certificados do computador local |
+  | certmgr.msc | Certificados do usuário atual |
+  | comexp.msc | Serviços de Componentes | 
+  | compmgmt.msc | Gerenciamento do Computador |
+  | devmgmt.msc | Gerenciador de Dispositivos |
+
+
+<br>
 
   </div>
   </details>
