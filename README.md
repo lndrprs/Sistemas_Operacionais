@@ -97,7 +97,7 @@
   | secpol.msc | Política de Segurança Local |
   | services.msc | Serviços |
   | taskschd.msc | Agendador de Tarefas |
-  | tpm.msc | Gerenciamento do TPM (Trust Platform Module) |
+  | tpm.msc | Gerenciamento do TPM (Trusted Platform Module) |
   | WF.msc | Firewall do Windows |
   | wmimgmt.msc | Controle WMI | 
 
