@@ -101,7 +101,6 @@
   | WF.msc | Firewall do Windows |
   | wmimgmt.msc | Controle WMI | 
 
-
 <br>
 
   </div>
