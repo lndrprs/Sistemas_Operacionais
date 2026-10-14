@@ -85,6 +85,21 @@
   | comexp.msc | Serviços de Componentes | 
   | compmgmt.msc | Gerenciamento do Computador |
   | devmgmt.msc | Gerenciador de Dispositivos |
+  | DevModeRunAsUserConfig.msc | Console ligada ao Modo de Desenvolvedor, para configuração de execução como outro usuário. |
+  | diskmgmt.msc | Gerenciamento de Disco |
+  | eventvwr.msc | Visualizador de Eventos |
+  | fsmgmt.msc | Gerenciamento de compartilhamentos, sessões e arquivos abertos pela rede. |
+  | gpedit.msc | Edito de Política de Grupo Local |
+  | lusrmgr.msc | Usuários e Grupos Locais |
+  | perfmon.msc | Monitor de Desempenho |
+  | printmanagement.msc | Gerenciamento de Impessoras / Impressões |
+  | rsop.msc | Conjunto Resultante de Políticas |
+  | secpol.msc | Política de Segurança Local |
+  | services.msc | Serviços |
+  | taskschd.msc | Agendador de Tarefas |
+  | tpm.msc | Gerenciamento do TPM (Trust Platform Module) |
+  | WF.msc | Firewall do Windows |
+  | wmimgmt.msc | Controle WMI | 
 
 
 <br>
